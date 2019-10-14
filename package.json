@@ -1,0 +1,31 @@
+{
+  "name": "password-validator-generator-w-base-web",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "baseui": "8.16.5",
+    "copy-to-clipboard": "3.2.0",
+    "generate-password": "1.4.2",
+    "react": "16.9.0",
+    "react-dom": "16.9.0",
+    "react-scripts": "2.0.3",
+    "styletron-engine-atomic": "1.4.0",
+    "styletron-react": "5.2.0",
+    "zxcvbn": "4.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
